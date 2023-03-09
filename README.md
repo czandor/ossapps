@@ -67,6 +67,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Overview](https://github.com/BlythMeister/Fitbit-Overview-Face) by Chris Blyth - A stats heavy face inclusing on wrist detection and lots of customisable options.
 * [PomodoroClock](https://github.com/johnliu55tw/PomodoroClock-Ionic) by John Liu - A Clockface that has a integrated Pomodoro timer, for you to Pomodoro anything at anytime.
 * [Poupinounours' Clock](https://github.com/fxmauricard/fitbit-poupinounours-clock) by François-Xavier Mauricard - Customized Fitbit OS Clock Face compatible with Fitbit Ionic and Fitbit Versa.
+* [Programmer's Watch](https://github.com/czandor/programmersWatchFitbit) by Andor Czafik - Shows a lot of stuff in a usable manner. INFO SCRIPT capability: The clockface can send a request to your script with some data in json format with raw POST, and it will display your script result.
 * [Progress Pride](https://github.com/bjhawk/fitbit-clockface-progress) by Brendan Hawk - An LGBTQIA+ Pride themed and stats-heavy watchface for fitbit Sense and Versa 3
 * [Readable Clock](https://github.com/dougwaldron/readable-fitbit-clock) by Doug Waldron - A clock face designed for legibility with large font sizes.
 * [Really Basic](https://github.com/gpfrello/FitbitOS-Really-Basic) by Giampaolo Frello - Really basic clockface with lots of comments to be able to understand the minimum components needed to build a digital clockface
@@ -81,6 +82,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Springtime](https://github.com/rhondachill/Springtime-Fitbit) by Rhonda Hill - A simple springtime themed digital watchface for Fitbit OS. Compatible with Fitbit Versa & Fitbit Ionic.
 * [StripesTime](https://github.com/cmspooner/StripesTime) by Chris Spooner - A automotive themed watchface with tach representing relative heart rate.
 * [sudoVersa](https://github.com/PiSaucer/sudoVersa) by PiSaucer - Terminal Style Clockface your Versa for you Linux users or whoever wants to feel like they Versa can hack.
+* [Taptic Time](https://github.com/czandor/Taptic-Time-Clockface-Fitbit) by Andor Czafik - Fitbit clock face made for low vision, visually impaired, and for blind peoples.
 * [Terminal](https://github.com/jdhartley/terminal-for-fitbit) by JD Hartley - Fitbit clock face styled to match a terminal session in a Unix environment.
 * [TH3](https://github.com/tyuen/THE-watchface) by Terry Yuen - Simple analog watchface with pill shaped hands for readability
 * [Tracks](https://github.com/aidanblack/fitbit-tracks) by Aidan Black - Analog clock face inspired by classic modern railway clocks. Options for stats and weather, dark mode.
@@ -107,6 +109,7 @@ Note that Fitbit isn't responsible for the projects listed below.
 * [Schedule](https://github.com/blueset/fitbit-schedule) by Eana Hufwe — A schedule/agenda viewer for Fitbit OS 2. Supports Google Calendar and planning to add more.
 * [Send Message](https://github.com/PeterSumm/SendMessage) by Peter Summers - An HTTP/HTTPS client supporting GET and POST requests.
 * [SUP](https://github.com/pfederi/fitbit-sup) by Patrick Federi - Log your Stand Up Paddling activities with a lot of ideas in the pipeline. Help appreciated. The application uses the Exercise API added in Fitbit OS 3.0
+* [Sys Info](https://github.com/czandor/Sys-Info-Fitbit) by Andor Czafik - System Info, Sensor data and Speed test for all Fitbit smartwatches.
 * [Timer](https://github.com/tyuen/fitbit-timer-app) by Terry Yuen - One swipe set-and-start egg timer app with minutes granularity
 * [Todo](https://github.com/SaskiaKeil/fitbit-todo) by Saskia Keil - View and check off your microsoft todo tasks from your watch
 * [Tuskla](https://github.com/remygrandin/Tuskla) by Rémy Grandin - Remote control your Tesla from your Fitbit
